@@ -1,0 +1,29 @@
+{
+  "name": "truthy",
+  "version": "1.0.0",
+  "description": "explore the nature of truthiness",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jemichel2yahoo/mocha.git"
+  },
+  "author": "Jeffrey Michel",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jemichel2yahoo/mocha/issues"
+  },
+  "homepage": "https://github.com/jemichel2yahoo/mocha#readme"
+}
